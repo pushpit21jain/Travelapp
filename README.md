@@ -121,6 +121,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Your Name - Pushpit Jain - email@example.com
 
 Project Link: [https://github.com/yourusername/destination-explorer](https://github.com/yourusername/destination-explorer) 
